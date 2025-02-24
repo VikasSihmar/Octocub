@@ -1,0 +1,18 @@
+.main-contact{
+    width: 100%;
+    height: auto;
+}
+.contact-container>h1{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #252525;
+}
+
+@media (max-width: 426px) {
+    .contact-container>h1 {
+        font-size: 27px;
+    }
+}

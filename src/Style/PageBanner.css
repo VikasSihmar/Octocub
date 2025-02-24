@@ -1,0 +1,30 @@
+.page-banner{
+    width: 100%;
+    height: 400px;
+    background-color: #070b3b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.page-banner>h1{
+    font-size: 45px;
+    font-weight: 650;
+    color: white;
+}
+.path-div{
+    display: flex;
+    color: white;
+}
+.path-div>p{
+    font-size: 18px;
+    margin: 0;
+}
+.path-div>a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.path-div>svg{
+    font-size: 31px;
+}
